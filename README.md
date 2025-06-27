@@ -30,3 +30,11 @@ Our code operates in the following structured manner:
    - [`train-students.ipynb`](https://www.kaggle.com/code/mahdyr/train-students )
    - [`train-teachers.ipynb`](https://www.kaggle.com/code/mahdyr/train-teachers )  
    These utilize the datasets generated in Steps 3 and 5.
+7. **Save the Teacher Models**  
+   We save the trained teacher models and make them publicly available here:  
+   👉 [DCASE2025 Task1 - All Use Models (Teacher Models)](https://www.kaggle.com/models/mahdyr/dcase2025-task1-models/pyTorch/all-use-models )
+
+8. **Train and Save the Student Models**  
+   Using the teacher models from Step 7, we proceed to train the student models. The final student models are saved and hosted here:  
+   👉 [DCASE2025 Task1 - Final Student Model](https://www.kaggle.com/models/mahdyr/dcase2025-task1-models/pyTorch/final_student_model )  
+   ⚠️ **Note:** Due to issues with the third submission, only Systems 1, 2, and 4 were submitted.
