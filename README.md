@@ -26,9 +26,9 @@ Our code operates in the following structured manner:
 
 6. **Train the Models**  
    Finally, we perform model training using the following notebooks:
-   - [`train-general-student.ipynb`](https://www.kaggle.com/code/mahdyr/train-general-student )
-   - [`train-students.ipynb`](https://www.kaggle.com/code/mahdyr/train-students )
-   - [`train-teachers.ipynb`](https://www.kaggle.com/code/mahdyr/train-teachers )  
+   - [`train-general-student.ipynb`]()
+   - [`train-students.ipynb`](https://www.kaggle.com/code/mahdyr/dcase-2025-abc-finalnotebook )
+   - [`train-teachers.ipynb`]()  
    These utilize the datasets generated in Steps 3 and 5.
 7. **Save the Teacher Models**  
    We save the trained teacher models and make them publicly available here:  
